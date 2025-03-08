@@ -1,0 +1,4 @@
+# FIRST DAY LEARNING (08-03-2025)
+# git is a version control system, if we do some changes in our code we can see the chances before and after code, if we need the previous code,
+# we can go and can control it.
+one 
